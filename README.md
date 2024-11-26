@@ -1,0 +1,1 @@
+# IDM-Activate-Script-Tool
