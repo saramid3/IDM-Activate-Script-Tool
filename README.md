@@ -1,4 +1,3 @@
-Below is a well-crafted README.md for the "IDM-Activate-Script-Tool", designed to engage and instruct users on utilizing the script effectively for activating Internet Download Manager (IDM) across various operating systems.
 
 ---
 
